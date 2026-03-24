@@ -1,4 +1,0 @@
-pyTelegramBotAPI
-qrcode
-pillow
-flask
